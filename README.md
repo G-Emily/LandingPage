@@ -1,14 +1,18 @@
-# LandingPage
-## Table of Contents
-- [Project Description](#project-description)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-## Project Description
+README.md
+
+LandingPage
+Table of Contents
+Project Description
+Usage
+Dependencies
+Project Description
 The goal of the LandingPage Project is to create a fully navigational homepage with HTML, CSS, and Javascript. Smooth scrolling to each of the four sections have been implemented. Active states have been declared and are highlighted once in viewport
-## Usage
+
+Usage
 This project can be used as a template and guide to create one's own fully navigational homepage with HTML, CSS, and Javascript.
-## Dependencies
+
+Dependencies
 The following files are needed in order for this project to work: index.html, styles.css, and app.js
-## Footer
-https://github.com/G-Emily
-[(Back to top)](#table-of-contents)
+
+Footer
+https://github.com/G-Emily (Back to top)
